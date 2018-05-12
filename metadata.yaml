@@ -1,0 +1,31 @@
+_repo: Th-midore--ou-mon-histoire-et-celle-de-ma-ma-tresse_42586
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42586-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Godard d'Aucour, Claude
+    aliases:
+    - Aucour, Claude Godard d'
+    - D'Aucour, Claude Godard
+    birthdate: 1716
+    deathdate: 1795
+    gutenberg_agent_id: '41758'
+    url: http://www.gutenberg.org/2009/agents/41758
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2013-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42586'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erotic stories'
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Thémidore; ou, mon histoire et celle de ma maîtresse
+url: http://www.gutenberg.org/ebooks/42586
