@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41758'
     url: http://www.gutenberg.org/2009/agents/41758
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42586#Th-midore--ou-mon-histoire-et-celle-de-ma-ma-tresse
 gutenberg_bookshelf: FR Séduction et libertinage
 gutenberg_issued: '2013-04-23'
 gutenberg_type: Text
